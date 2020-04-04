@@ -1,7 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Python postu" , "body": "Python Postu yazısı lorem ipsum falan filan"},
+    { "id": 2, "title": "Javascript postu" , "body": "Javascript Postu yazısı lorem ipsum falan filan"},
+    { "id": 3, "title": "CSS postu" , "body": "CSS Postu yazısı lorem ipsum falan filan"},
+    { "id": 4, "title": "SCSS postu" , "body": "SCSS Postu yazısı lorem ipsum falan filan"},
+    { "id": 5, "title": "HTML postu" , "body": "HTML Postu yazısı lorem ipsum falan filan"},
+    { "id": 6, "title": "C# postu" , "body": "C# Postu yazısı lorem ipsum falan filan"}
   ]
 }
