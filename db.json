@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Python postu" , "pic":"https://i1.wp.com/stickker.net/wp-content/uploads/2015/09/python.png?fit=600%2C600&ssl=1", "body": '<span style:"color:red">Python Postu yazısı lorem ipsum falan filan</span>'},
+    { "id": 1, "title": "Python postu" , "pic":"https://i1.wp.com/stickker.net/wp-content/uploads/2015/09/python.png?fit=600%2C600&ssl=1", "body": "Python Postu yazısı lorem ipsum falan filan"},
     { "id": 2, "title": "Javascript postu" , "pic":"https://kodedu.com/wp-content/uploads/2014/05/javascript-egitimi.png", "body": "Javascript Postu yazısı lorem ipsum falan filan"},
     { "id": 3, "title": "CSS postu" , "pic":"https://caglarbostanci.com.tr/wp-content/uploads/2017/04/CSS-caglarbostanci-com-tr.png", "body": "CSS Postu yazısı lorem ipsum falan filan"},
     { "id": 4, "title": "SCSS postu" , "pic":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png", "body": "SCSS Postu yazısı lorem ipsum falan filan"},
