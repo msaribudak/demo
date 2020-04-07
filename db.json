@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Python postu" , "body": "<span style='color:red;'>Python Postu yazısı lorem ipsum falan filan</span>"},
+    { "id": 1, "title": "Python postu" , "body": "<span style='color:red;'>Python Postu yazısı lorem ipsum falan fil</span>"},
     { "id": 2, "title": "Javascript postu" , "body": "Javascript Postu yazısı lorem ipsum falan filan"},
     { "id": 3, "title": "CSS postu" , "body": "CSS Postu yazısı lorem ipsum falan filan"},
     { "id": 4, "title": "SCSS postu" , "body": "SCSS Postu yazısı lorem ipsum falan filan"},
